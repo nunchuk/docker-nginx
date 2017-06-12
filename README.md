@@ -1,4 +1,4 @@
-![logo](https://cloud.githubusercontent.com/assets/16042528/25989172/bd69c30e-372d-11e7-850b-d814cb4490db.png)
+![logo](https://user-images.githubusercontent.com/16042528/27022236-a3f1b0ca-4f7f-11e7-86d4-4b120e1951f9.png)
 
 # Docker Nginx Image
 
